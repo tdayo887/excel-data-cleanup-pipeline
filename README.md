@@ -16,6 +16,9 @@ A streamlined project for cleaning, transforming, and validating Excel datasets.
       - Number of Active Months
       - Total Suburb Records
       - Number of Product Categories
+
+
+      https://docs.google.com/spreadsheets/d/1qtlgf6P3W93b2yn1IahIQBdvAtIFssUO/edit?usp=drive_link&ouid=106655257513880471971&rtpof=true&sd=true
       
   ### Data Anaysis 
   - Identified trends and patterns in the dataset "Excel-Data-cleanup-Pipeline"
@@ -28,7 +31,7 @@ Visualization: Bulit interactive Visual including KPI cards,bar chart, column ch
 - Top 10 Best selling Categories by Buyers
 - Top 10 manager by Sales
 - Top 5 Days by Sales
-- Top 5 Best Selling Months
+- Top 5 Best Selling Days
 
 
 
